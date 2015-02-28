@@ -1,0 +1,163 @@
+Acinonyx jubatus(Cheetah)
+Status:Vulnerable
+A2acd; C1
+Pop. trend: decreasing
+
+Caracal aurata(African Golden Cat)
+Status:Near Threatened
+Pop. trend: decreasing
+
+Caracal caracal(Caracal)
+Status:Least Concern
+Pop. trend: unknown
+
+Catopuma badia(Borneo Bay Cat)
+Status:Endangered
+C1
+Pop. trend: decreasing
+
+Catopuma temminckii(Asiatic Golden Cat)
+Status:Near Threatened
+Pop. trend: decreasing
+
+Felis bieti(Chinese Desert Cat)
+Status:Vulnerable
+C2a(ii)
+Pop. trend: decreasing
+
+Felis chaus(Jungle Cat)
+Status:Least Concern
+Pop. trend: decreasing
+
+Felis margarita(Sand Cat)
+Status:Near Threatened
+Pop. trend: unknown
+
+Felis nigripes(Black-footed Cat)
+Status:Vulnerable
+C2a(i)
+Pop. trend: decreasing
+
+Felis silvestris(Wild Cat)
+Status:Least Concern
+Pop. trend: decreasing
+
+Herpailurus yagouaroundi(Jaguarundi)
+Status:Least Concern
+Pop. trend: decreasing
+Leopardus colocolo(Pampas Cat)
+Status:Near Threatened
+Pop. trend: decreasing
+
+Leopardus geoffroyi(Geoffroy's Cat)
+Status:Near Threatened
+Pop. trend: decreasing
+
+Leopardus guigna(Guiña)
+Status:Vulnerable
+A2a; C2a(i)
+Pop. trend: decreasing
+
+Leopardus jacobita(Andean Cat)
+Status:Endangered
+C2a(i)
+Pop. trend: decreasing
+
+Leopardus pardalis(Ocelot)
+Status:Least Concern
+Pop. trend: decreasing
+
+Leopardus tigrinus(Oncilla)
+Status:Vulnerable
+A3c
+Pop. trend: decreasing
+
+Leopardus wiedii(Margay)
+Status:Near Threatened
+Pop. trend: decreasing
+
+Leptailurus serval(Serval)
+Status:Least Concern
+Pop. trend: stable
+
+Lynx canadensis(Canada Lynx)
+Status:Least Concern
+Pop. trend: stable
+
+Lynx lynx(Eurasian Lynx)
+Status:Least Concern
+Pop. trend: stable
+
+Lynx pardinus(Iberian Lynx)
+Status:Critically Endangered
+C2a(i)
+Pop. trend: decreasing
+
+Lynx rufus(Bobcat)
+Status:Least Concern
+Pop. trend: stable
+
+Neofelis diardi(Sunda Clouded Leopard)
+Status:Vulnerable
+C1
+Pop. trend: decreasing
+
+Neofelis nebulosa(Clouded Leopard)
+Status:Vulnerable
+C1+2a(i)
+Pop. trend: decreasing
+
+Otocolobus manul(Pallas's Cat)
+Status:Near Threatened
+Pop. trend: decreasing
+
+Panthera leo(Lion)
+Status:Vulnerable
+A2abcd
+Pop. trend: decreasing
+
+Panthera onca(Jaguar)
+Status:Near Threatened
+Pop. trend: decreasing
+
+Panthera pardus(Leopard)
+Status:Near Threatened
+Pop. trend: decreasing
+
+Panthera tigris(Tiger)
+Status:Endangered
+A2bcd+4bcd; C1+2a(i)
+Pop. trend: decreasing
+
+Panthera uncia(Snow Leopard)
+Status:Endangered
+C1
+Pop. trend: decreasing
+
+Pardofelis marmorata(Marbled Cat)
+Status:Vulnerable
+C1+2a(i)
+Pop. trend: decreasing
+
+Prionailurus bengalensis(Leopard Cat)
+Status:Least Concern
+Pop. trend: stable
+
+Prionailurus planiceps(Flat-headed Cat)
+Status:Endangered
+C1+2a(i)
+Pop. trend: decreasing
+
+Prionailurus rubiginosus(Rusty-spotted Cat)
+Status:Vulnerable
+C2a(i)
+Pop. trend: decreasing
+
+Prionailurus viverrinus(Fishing Cat)
+Status:Endangered
+A2cd+4cd
+Pop. trend: decreasing
+
+Puma concolor(Puma)
+Status:Least Concern
+Pop. trend: decreasing
